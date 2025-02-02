@@ -1,5 +1,5 @@
-## waywes
-waywes is a script made to ease the launch process of Waydroid in X11 by using Weston compositor with different window modes like fullscreen, windowed and mobile portrait.
+## waywes-gui
+waywes-gui is a gui version of waywes script made to ease the launch process of Waydroid in X11 by using Weston compositor with different window modes like fullscreen, windowed and mobile portrait.
 <img src="https://github.com/naufal453/waywes-gui/blob/main/gui.png">
 
 ## Requirements
@@ -10,13 +10,13 @@ waywes is a script made to ease the launch process of Waydroid in X11 by using W
 ## Install 
 
 1. Clone the repo
-```git clone https://github.com/KSMaan45/waywes.git```
+```git clone https://github.com/naufal453/waywes-gui.git```
 
 2. Change directory ```cd waywes```
 
 3. Make script executable ```chmod +x waywes.sh```
 
-4. Execute script ```./waywes.sh```
+4. Execute script ```python waywes.py```
 
 ## Usage
 
