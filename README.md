@@ -28,8 +28,8 @@ waywes-gui is a gui version of waywes script made to ease the launch process of 
 | 4 | Start waydroid with Edge to Edge width in windowed mode recommended for 720p display|
 | 5 | Start waydroid in tablet mode suitable for Full HD 1080p display |
 | 6 | Start waydroid in tablet mode suitable for HD 720p display |
-| Added Feature |
-| Automatically do "waydroid session stop" when waywes-gui closed|
+| Added Feature | Automatically do "waydroid session stop" when waywes-gui closed|
+
            
 
 
